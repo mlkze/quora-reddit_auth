@@ -2,6 +2,11 @@
 
 An extension for Google Chrome that allows user to bypass forced authorization on Quora and Reddit (including NSFW/18+ pages). Browse anonymously without logging in.
 
+## Download
+Download and extract zip file for direct adding the extenstion in Google Chrome. <br />
+Link to download: <br />
+https://downgit.github.io/#/home?url=https://github.com/mlkze/quora-reddit_auth/tree/c2b163053fd448db18fdc84091c60f9529b0c2ba/Quora-Reddit-Authorization-Magic <br />
+
 ## How it works
 
 ### Reddit
