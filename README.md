@@ -11,7 +11,7 @@ https://downgit.github.io/#/home?url=https://github.com/mlkze/quora-reddit_auth/
 
 ### Reddit
  - Reddit.com often marks some pages as 18+ and requires user authorization. If the user is not logged in, the page will be blurred and the user will receive a notification. After this, browsing will not be possible.
- - Reddit uses GET request for initiate screen blurring and notice showing. If the GET request is blocked by the client, these .js scripts (blur and notification) are not rendered.
+ - Reddit uses GET request for initiate screen blurring and notice showing. Client sends a request to server to check user's authorization status to initiate .js visual scripts. If the GET request is blocked by the client, these .js scripts (blur and notification) are not rendered.
  - Chrome DevTools can show what requests initiates this scripts. In this extenstion all GET request with some keywords was blocked.
 
 ### Quora
