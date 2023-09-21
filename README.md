@@ -23,4 +23,4 @@ https://downgit.github.io/#/home?url=https://github.com/mlkze/quora-reddit_auth/
 
 ## Appendix
 In fact, it is more convenient to use a system similar to Reddit bypassing authorization by blocking GET requests for Quora. This was done for variety.
-The extension was created on version Manifest 2 due to problems in the new version of the API, which does not allow full use of the webRequest in Manifest v3.
+The extension was created on version Manifest v2 due to problems in the new version of the API, which does not allow full use of the webRequest in Manifest v3.
