@@ -20,6 +20,7 @@ https://downgit.github.io/#/home?url=https://github.com/mlkze/quora-reddit_auth/
 ### Images
 ![Alt Image 1](https://github.com/mlkze/quora-reddit_auth/blob/81cd159399e516c4ae7667bf73e90b26c0f79204/readme_images/explanation1.png)
 ![Alt Image 2](https://github.com/mlkze/quora-reddit_auth/blob/365f427f830f4e8c1eec6d109ff0221e1cbe06de/readme_images/explanation2.png)
+![Alt Image 3](https://github.com/mlkze/quora-reddit_auth/blob/a96ceb44d4908a8ec820f68ee3740c9d39bd8dee/readme_images/solution_reddit.png)
 
 ## Appendix
 1) In fact, it is more convenient to use a system similar to Reddit bypassing authorization by blocking GET requests for Quora. This was done for variety.
